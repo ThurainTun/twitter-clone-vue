@@ -1,9 +1,5 @@
 # Twitter Clone
 
-A Twitter Clone built using MERN Stack and Redux. [Tailwindcss](https://www.tailwindcss.com) is used for overall styling of the application and dark theme.
-
-Live Version: [https://twitter-carbon.herokuapp.com/](https://twitter-carbon.herokuapp.com/)
-
 ## Features Implemented
 
 1. Authentication and Authorization, which also includes resetting password.
